@@ -1,0 +1,40 @@
+{
+  "editor.fontFamily": "Fira Code",
+  "editor.fontSize": 16,
+  "editor.lineHeight": 20,
+  "editor.fontLigatures": true,
+  "editor.tabSize": 2,
+
+  "editor.dragAndDrop": true,
+  "editor.minimap.enabled": true,
+  "editor.roundedSelection": true,
+  "editor.glyphMargin": false,
+
+  "window.zoomLevel": -2,
+
+  "diffEditor.ignoreTrimWhitespace": false,
+
+  "htmlhint.enable": true,
+  "stylelint.enable": true,
+  "eslint.enable": true,
+  "eslint.autoFixOnSave": true,
+
+  "editor.insertSpaces": true,
+  "editor.renderWhitespace": "all",
+  "editor.scrollBeyondLastLine": false,
+
+  "editor.wordWrap": "on",
+
+  "files.exclude": {},
+  "search.exclude": {},
+
+  "go.gopath": "C:\\Users\\evgen_000\\Documents\\_programming\\GOLANG",
+  "go.goroot": "C:\\Go",
+
+  "terminal.integrated.fontFamily": "Fira Code",
+  "terminal.integrated.fontLigatures": true,
+  "terminal.integrated.fontSize": 16,
+  "workbench.colorTheme": "Ocean Dark",
+  "workbench.iconTheme": "vscode-great-icons",
+  "terminal.integrated.shell.windows": "C:\\WINDOWS\\Sysnative\\WindowsPowerShell\\v1.0\\powershell.exe"
+}

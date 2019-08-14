@@ -1,0 +1,42 @@
+{
+  "bootstrapped": true,
+  "in_process_packages":
+  [
+    "Rust",
+    "Rust Enhanced"
+  ],
+  "installed_packages":
+  [
+    "Alignment",
+    "AutoFileName",
+    "BracketHighlighter",
+    "ColorPicker",
+    "CSS3",
+    "DocBlockr",
+    "EJS",
+    "Emmet",
+    "Git",
+    "GitGutter",
+    "HTML-CSS-JS Prettify",
+    "HTML5",
+    "Jade",
+    "jQuery",
+    "JSTL syntax",
+    "JSX",
+    "LESS",
+    "Markdown Preview",
+    "Material Theme",
+    "Material Theme - Appbar",
+    "Package Control",
+    "Rust",
+    "Sass",
+    "SFTP",
+    "SideBarEnhancements",
+    "SublimeCodeIntel",
+    "SublimeLinter",
+    "SublimeLinter-contrib-eslint",
+    "SublimeLinter-json",
+    "SublimeREPL",
+    "Syntax Highlighting for Sass"
+  ]
+}

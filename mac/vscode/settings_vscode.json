@@ -1,0 +1,80 @@
+{
+
+    "java.home": "/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home",
+    "xmlLang.javaHome": "/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home",
+    "workbench.iconTheme": "ayu",
+        
+    "window.zoomLevel": -1,
+    
+    "editor.tabSize": 2,
+    "editor.wordWrap": "on",
+    "eslint.autoFixOnSave": true,    
+    "editor.fontFamily": "Fira Code",
+    "editor.lineHeight": 24,
+    "editor.fontLigatures": true,
+    "editor.renderWhitespace": "none",
+    "editor.renderControlCharacters": true,
+    
+    "terminal.integrated.cursorBlinking": true,
+    "terminal.integrated.cursorStyle": "line",
+    "terminal.integrated.fontFamily": "Fira Code",
+    
+    "breadcrumbs.enabled": true,
+    
+    "cSpell.userWords": [
+        "bitbucket",
+        "bonotel",
+        "bookingdata",
+        "cardinfo",
+        "cidr",
+        "itravel",
+        "pytest",
+        "rezgate",
+        "subdomain",
+        "subpath",
+        "terraform"
+    ],
+    "gitlens.codeLens.scopes": [
+        "document",
+        "containers"
+    ],
+    "gitlens.codeLens.enabled": false,
+    "gitlens.hovers.currentLine.over": "line",
+    "gitlens.currentLine.enabled": false,
+    "gitlens.keymap": "chorded",
+    "gitlens.advanced.messages": {
+        "suppressCommitHasNoPreviousCommitWarning": false,
+        "suppressCommitNotFoundWarning": false,
+        "suppressFileNotUnderSourceControlWarning": false,
+        "suppressGitVersionWarning": false,
+        "suppressLineUncommittedWarning": false,
+        "suppressNoRepositoryWarning": false,
+        "suppressResultsExplorerNotice": false,
+        "suppressShowKeyBindingsNotice": true
+    },
+    "workbench.view.alwaysShowHeaderActions": true,
+    "xmlTools.enableXmlTreeViewCursorSync": true,
+    "gitlens.views.fileHistory.enabled": true,
+    "gitlens.views.lineHistory.enabled": true,
+    "[python]": {},
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "python.jediEnabled": false,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "[xml]": {
+        "editor.defaultFormatter": "DotJoshJohnson.xml"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.maxTokenizationLineLength": 10000,
+    "workbench.colorTheme": "Panda Syntax",
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
+}
